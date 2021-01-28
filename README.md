@@ -12,7 +12,7 @@ ScadaBR, é um software para a criação de sistemas supervisores de linhas de p
 
 Para mais informações do projeto, leia o artigo em pdf incluso no repositório. 
 
-# Inglês:
+# English:
 
 ScadaBR, is a software for the creation of supervisory systems for production lines. The present project consists of a supervisory system for the manufacture of common and surgical masks with simulation. The system features supervision of production quantity, material expenditure, maintenance and emergency alarms. The generated alerts are sent to a pre-defined email, containing a report and the alert message regarding the problem. The system also generates periodic production reports, gathering information about all the variables involved, such as, for example, quantity of masks, worn material, maintenance, average temperature, others.
 
